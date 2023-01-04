@@ -1,0 +1,15 @@
+final List<Map<String, String>> countries =[
+{"Country" : "Afganistan", "city": "kabul"},
+{"Country" : "Albania", "city": "Tirana"},
+{"Country" : "Algeria", "city": "Alger"},
+{"Country" : "American", "city": "Fagatogo"},
+{"Country" : "Andorra", "city": "Andorra la vell"},
+{"Country" : "Angola", "city": "Luanda"},
+{"Country" : "Anguilla", "city": "The Valley"},
+{"Country" : "Antigua and Barbuda", "city": "Saint johns"},
+{"Country" : "Argentina", "city": "Buenis Aires"},
+{"Country" : "Armena", "city": "Yerevan"},
+{"Country" : "Aruba", "city": "Oranjested"},
+{"Country" : "Australia", "city": "Canbera"},
+{"Country" : "Austraia", "city": "Wien"},
+];
